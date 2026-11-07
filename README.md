@@ -6,6 +6,7 @@ Chemical biology at UC Berkeley. I’m building **DreamIT**, focused on 3D world
 
 ## Start here
 
+- **[Connect Four Proof Lab](https://github.com/rishitpradhan-gif/connect4-proof-lab)** — proof-oriented game-theory research: structural pairing theorems, independently checked certificates, and C++20 adversarial search. [Research note ↗](https://github.com/rishitpradhan-gif/connect4-proof-lab/releases/download/v0.1.0/connect4-proof-lab-research-note.pdf)
 - **[Portfolio](https://github.com/rishitpradhan-gif/portfolio)** — the deployed site: a living DNA environment, research, project demos, and playable tennis. [Visit ↗](https://rishitpradhan.com)
 - **[Morphogenesis Lab](https://github.com/rishitpradhan-gif/morphogenesis-lab)** — paintable Gray–Scott reaction–diffusion patterns, editable chemistry, and PNG export. [Try ↗](https://rishitpradhan.com/projects/morphogenesis/)
 - **[Rally Court](https://github.com/rishitpradhan-gif/rally-court)** — a tennis-inspired canvas game with collision physics, an opponent, three lives, and local best scores. [Play ↗](https://rishitpradhan.com/#offscreen)
