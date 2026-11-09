@@ -6,10 +6,12 @@ Chemical biology at UC Berkeley. I’m building **DreamIT**, focused on 3D world
 
 ## Download and run
 
-**[Browse all 11 tools, download ZIPs, and follow the simple local-run guides →](TOOLS.md)**
+**[Browse all 13 tools, download ZIPs, and follow the simple local-run guides →](TOOLS.md)**
 
 ## Start here
 
+- **[Murmur](https://murmur-rishit.rishit-pradhan.chatgpt.site)** — Turn a phrase into a playable sound sculpture. Save the WAV or the print. Designed in Figma; runs locally in the browser. [Download ↗](https://github.com/rishitpradhan-gif/murmur/releases/latest)
+- **[Ribbon](https://ribbon-rishit.rishit-pradhan.chatgpt.site)** — Turn a photo’s colors into a woven keepsake. Edit the threads and save an SVG. Designed in Figma; runs locally in the browser. [Download ↗](https://github.com/rishitpradhan-gif/ribbon/releases/latest)
 - **[Sift](https://github.com/rishitpradhan-gif/sift)** — browser-local CSV audits, schema drift detection, and a downloadable streaming API. Tested on a million-row input. [Download API ↗](https://github.com/rishitpradhan-gif/sift/releases/latest)
 - **[Trellis](https://github.com/rishitpradhan-gif/trellis)** — dependency planning with critical paths, cycle witnesses, delay simulation, and a downloadable API. Tested with 50,000 tasks and 199,990 edges. [Download API ↗](https://github.com/rishitpradhan-gif/trellis/releases/latest)
 - **[Prerequisite Pairings](https://github.com/rishitpradhan-gif/prerequisite-pairings)** — an exact characterization of legal paired replies under arbitrary prerequisite orders, plus quotient state and play-counting theorems; checked against 72,482 exhaustive instances.

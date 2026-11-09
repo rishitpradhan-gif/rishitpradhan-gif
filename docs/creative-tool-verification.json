@@ -1,0 +1,32 @@
+{
+  "murmur": {
+    "status": "passed",
+    "checks": [
+      "phrase editing",
+      "playback and stop",
+      "texture selection",
+      "real WAV download",
+      "SVG print download",
+      "blank input",
+      "sample phrase buttons",
+      "390px overflow",
+      "reduced motion"
+    ],
+    "pageErrors": []
+  },
+  "ribbon": {
+    "status": "passed",
+    "checks": [
+      "shuffle",
+      "density control",
+      "title editing",
+      "SVG download",
+      "actual photo input and exact known-color extraction",
+      "color editing",
+      "invalid image rejection",
+      "reset",
+      "390px overflow"
+    ],
+    "pageErrors": []
+  }
+}

@@ -2,6 +2,30 @@
   "version": 1,
   "tools": [
     {
+      "slug": "murmur",
+      "title": "Murmur",
+      "kind": "browser",
+      "description": "Turn a phrase into a playable sound sculpture. Save the WAV or the print.",
+      "port": 8000,
+      "download": "https://github.com/rishitpradhan-gif/murmur/releases/download/v0.1.0/murmur-local.zip",
+      "guide": "https://github.com/rishitpradhan-gif/murmur#run-the-download",
+      "commands": "python3 serve.py",
+      "requirement": "Python 3.10+ for the prebuilt local download; a modern browser.",
+      "live": "https://murmur-rishit.rishit-pradhan.chatgpt.site"
+    },
+    {
+      "slug": "ribbon",
+      "title": "Ribbon",
+      "kind": "browser",
+      "description": "Turn a photo’s colors into a woven keepsake. Edit the threads and save an SVG.",
+      "port": 8000,
+      "download": "https://github.com/rishitpradhan-gif/ribbon/releases/download/v0.1.0/ribbon-local.zip",
+      "guide": "https://github.com/rishitpradhan-gif/ribbon#run-the-download",
+      "commands": "python3 serve.py",
+      "requirement": "Python 3.10+ for the prebuilt local download; a modern browser.",
+      "live": "https://ribbon-rishit.rishit-pradhan.chatgpt.site"
+    },
+    {
       "slug": "sift",
       "title": "Sift",
       "kind": "api",
@@ -60,7 +84,7 @@
       "slug": "morphogenesis-lab",
       "title": "Morphogenesis",
       "kind": "browser",
-      "description": "Paint seeds and grow reaction\u2013diffusion patterns.",
+      "description": "Paint seeds and grow reaction–diffusion patterns.",
       "port": 8000,
       "download": "https://github.com/rishitpradhan-gif/morphogenesis-lab/releases/download/local-v1/morphogenesis-lab-local.zip",
       "guide": "https://github.com/rishitpradhan-gif/morphogenesis-lab/blob/main/LOCAL.md",

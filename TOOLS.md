@@ -1,6 +1,6 @@
 # Download & run locally
 
-Eleven tools, apps, and research verifiers by Rishit Pradhan. The downloads below are public and do not require a GitHub account. Click a ZIP link, extract it, then follow its short guide.
+Thirteen tools, apps, and research verifiers by Rishit Pradhan. The downloads below are public and do not require a GitHub account. Click a ZIP link, extract it, then follow its short guide.
 
 **Start with Sift or Trellis for an API; QuietGrid, ThermoQueue, or Offcut Commons for a complete Python app.**
 
@@ -10,6 +10,26 @@ Eleven tools, apps, and research verifiers by Rishit Pradhan. The downloads belo
 - **Sift / Trellis APIs:** install [Node.js 22+](https://nodejs.org/en/download). No npm packages are required in the API downloads.
 - Extract **all files**, open a terminal in the extracted inner folder, then run the listed command. Keep the terminal open while a server runs; Ctrl+C stops it.
 - Both APIs use port 8787; the four browser demos use 8000. Run one at a time or choose another port using the project guide.
+
+## Little things to make
+
+Designed in Figma first. Both web links are public and work without an account. Processing stays on your device.
+
+### Murmur
+
+Turn a phrase into a playable sound sculpture. Save the WAV or the print.
+
+**[Try it now](https://murmur-rishit.rishit-pradhan.chatgpt.site)** · **[Download ZIP](https://github.com/rishitpradhan-gif/murmur/releases/download/v0.1.0/murmur-local.zip)** · [Local guide](https://github.com/rishitpradhan-gif/murmur#run-the-download)
+
+For the ZIP: extract it, run `python3 serve.py` (`py -3 serve.py` on Windows), and open http://127.0.0.1:8000.
+
+### Ribbon
+
+Turn a photo’s colors into a woven keepsake. Edit the threads and save an SVG.
+
+**[Try it now](https://ribbon-rishit.rishit-pradhan.chatgpt.site)** · **[Download ZIP](https://github.com/rishitpradhan-gif/ribbon/releases/download/v0.1.0/ribbon-local.zip)** · [Local guide](https://github.com/rishitpradhan-gif/ribbon#run-the-download)
+
+For the ZIP: extract it, run `python3 serve.py` (`py -3 serve.py` on Windows), and open http://127.0.0.1:8000.
 
 ## Downloadable APIs
 
