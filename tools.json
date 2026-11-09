@@ -2,6 +2,45 @@
   "version": 1,
   "tools": [
     {
+      "slug": "margin",
+      "title": "Margin",
+      "kind": "student",
+      "description": "Arrange lecture notes into editable study sheets, explicit questions, and recall prompts.",
+      "port": 8000,
+      "commands": "python3 serve.py",
+      "requirement": "Python 3.10+ for the local app; Chrome or Edge desktop for the unpacked extension.",
+      "live": "https://margin-rishit.rishit-pradhan.chatgpt.site",
+      "download": "https://margin-rishit.rishit-pradhan.chatgpt.site/downloads/margin-local.zip",
+      "extension": "https://margin-rishit.rishit-pradhan.chatgpt.site/downloads/margin-extension.zip",
+      "guide": "https://github.com/rishitpradhan-gif/margin#install-the-extension"
+    },
+    {
+      "slug": "thread",
+      "title": "Thread",
+      "kind": "student",
+      "description": "Connect concepts across classes and write a reason for every link.",
+      "port": 8000,
+      "commands": "python3 serve.py",
+      "requirement": "Python 3.10+ for the local app; Chrome or Edge desktop for the unpacked extension.",
+      "live": "https://thread-rishit.rishit-pradhan.chatgpt.site",
+      "download": "https://thread-rishit.rishit-pradhan.chatgpt.site/downloads/thread-local.zip",
+      "extension": "https://thread-rishit.rishit-pradhan.chatgpt.site/downloads/thread-extension.zip",
+      "guide": "https://github.com/rishitpradhan-gif/thread#install-the-extension"
+    },
+    {
+      "slug": "pocket",
+      "title": "Pocket",
+      "kind": "student",
+      "description": "Turn your own notes into an editable eight-page revision zine.",
+      "port": 8000,
+      "commands": "python3 serve.py",
+      "requirement": "Python 3.10+ for the local app; Chrome or Edge desktop for the unpacked extension.",
+      "live": "https://pocket-rishit.rishit-pradhan.chatgpt.site",
+      "download": "https://pocket-rishit.rishit-pradhan.chatgpt.site/downloads/pocket-local.zip",
+      "extension": "https://pocket-rishit.rishit-pradhan.chatgpt.site/downloads/pocket-extension.zip",
+      "guide": "https://github.com/rishitpradhan-gif/pocket#install-the-extension"
+    },
+    {
       "slug": "murmur",
       "title": "Murmur",
       "kind": "browser",

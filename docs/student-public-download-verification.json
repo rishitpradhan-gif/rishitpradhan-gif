@@ -1,0 +1,48 @@
+{
+  "status": "passed",
+  "downloads": [
+    {
+      "project": "margin",
+      "kind": "local",
+      "url": "https://margin-rishit.rishit-pradhan.chatgpt.site/downloads/margin-local.zip",
+      "sha256": "ae1df5a5a3b3492bd3f18bfdd89b72f94e3239d7b1e8dc62b19b064808f37948",
+      "status": "passed"
+    },
+    {
+      "project": "margin",
+      "kind": "extension",
+      "url": "https://margin-rishit.rishit-pradhan.chatgpt.site/downloads/margin-extension.zip",
+      "sha256": "871b7f5038f3379c63756177ee60211d3f6f67b15f30a629790d76bc63f935d2",
+      "status": "passed"
+    },
+    {
+      "project": "thread",
+      "kind": "local",
+      "url": "https://thread-rishit.rishit-pradhan.chatgpt.site/downloads/thread-local.zip",
+      "sha256": "00f35684e435dab4ec7bcdbd972421f6cb66ce4732024a81ca211fe374db6ada",
+      "status": "passed"
+    },
+    {
+      "project": "thread",
+      "kind": "extension",
+      "url": "https://thread-rishit.rishit-pradhan.chatgpt.site/downloads/thread-extension.zip",
+      "sha256": "fd68e14b5f4563925334bb69025579af8e623d7546d339df5109d912110a9f1b",
+      "status": "passed"
+    },
+    {
+      "project": "pocket",
+      "kind": "local",
+      "url": "https://pocket-rishit.rishit-pradhan.chatgpt.site/downloads/pocket-local.zip",
+      "sha256": "c4b3aad577414b1c85f70d07d1ce346b972892db2463aa10dbe7c81aa7fa17ac",
+      "status": "passed"
+    },
+    {
+      "project": "pocket",
+      "kind": "extension",
+      "url": "https://pocket-rishit.rishit-pradhan.chatgpt.site/downloads/pocket-extension.zip",
+      "sha256": "0ebcc895972365e20f268ca767b3bca1ed8949412ab755bb59fd402abd6ab4d0",
+      "status": "passed"
+    }
+  ],
+  "github_delivery_note": "Release asset uploads and server-side digests verified. Anonymous GitHub asset downloads intermittently returned HTTP 504; primary links use the independently verified Sites delivery."
+}

@@ -4,9 +4,15 @@ Chemical biology at UC Berkeley. I’m building **DreamIT**, focused on 3D world
 
 [Portfolio](https://rishitpradhan.com) · [LinkedIn](https://www.linkedin.com/in/rishit-pradhan-a49773352) · [Drip prototype](https://drip-demo-dashboard.vercel.app/)
 
+## For students
+
+- **[Margin](https://margin-rishit.rishit-pradhan.chatgpt.site)** — Arrange lecture notes into editable study sheets, explicit questions, and recall prompts. [App + extension downloads](https://github.com/rishitpradhan-gif/margin/releases/latest)
+- **[Thread](https://thread-rishit.rishit-pradhan.chatgpt.site)** — Connect concepts across classes and write a reason for every link. [App + extension downloads](https://github.com/rishitpradhan-gif/thread/releases/latest)
+- **[Pocket](https://pocket-rishit.rishit-pradhan.chatgpt.site)** — Turn your own notes into an editable eight-page revision zine. [App + extension downloads](https://github.com/rishitpradhan-gif/pocket/releases/latest)
+
 ## Download and run
 
-**[Browse all 13 tools, download ZIPs, and follow the simple local-run guides →](TOOLS.md)**
+**[Browse all 16 tools, download ZIPs, and follow the simple local-run guides →](TOOLS.md)**
 
 ## Start here
 

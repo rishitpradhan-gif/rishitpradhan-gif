@@ -1,6 +1,6 @@
 # Download & run locally
 
-Thirteen tools, apps, and research verifiers by Rishit Pradhan. The downloads below are public and do not require a GitHub account. Click a ZIP link, extract it, then follow its short guide.
+Sixteen tools, apps, and research verifiers by Rishit Pradhan. The downloads below are public and do not require a GitHub account. Click a ZIP link, extract it, then follow its short guide.
 
 **Start with Sift or Trellis for an API; QuietGrid, ThermoQueue, or Offcut Commons for a complete Python app.**
 
@@ -10,6 +10,32 @@ Thirteen tools, apps, and research verifiers by Rishit Pradhan. The downloads be
 - **Sift / Trellis APIs:** install [Node.js 22+](https://nodejs.org/en/download). No npm packages are required in the API downloads.
 - Extract **all files**, open a terminal in the extracted inner folder, then run the listed command. Keep the terminal open while a server runs; Ctrl+C stops it.
 - Both APIs use port 8787; the four browser demos use 8000. Run one at a time or choose another port using the project guide.
+
+## Student tools — apps and browser extensions
+
+Each works locally with your own notes. Export backups to move work between the website, local app, and extension; their storage is separate.
+
+### Margin
+
+Arrange lecture notes into editable study sheets, explicit questions, and recall prompts.
+
+**[Try online](https://margin-rishit.rishit-pradhan.chatgpt.site)** · **[Download app](https://margin-rishit.rishit-pradhan.chatgpt.site/downloads/margin-local.zip)** · **[Download extension](https://margin-rishit.rishit-pradhan.chatgpt.site/downloads/margin-extension.zip)** · [Install guide](https://github.com/rishitpradhan-gif/margin#install-the-extension)
+
+### Thread
+
+Connect concepts across classes and write a reason for every link.
+
+**[Try online](https://thread-rishit.rishit-pradhan.chatgpt.site)** · **[Download app](https://thread-rishit.rishit-pradhan.chatgpt.site/downloads/thread-local.zip)** · **[Download extension](https://thread-rishit.rishit-pradhan.chatgpt.site/downloads/thread-extension.zip)** · [Install guide](https://github.com/rishitpradhan-gif/thread#install-the-extension)
+
+### Pocket
+
+Turn your own notes into an editable eight-page revision zine.
+
+**[Try online](https://pocket-rishit.rishit-pradhan.chatgpt.site)** · **[Download app](https://pocket-rishit.rishit-pradhan.chatgpt.site/downloads/pocket-local.zip)** · **[Download extension](https://pocket-rishit.rishit-pradhan.chatgpt.site/downloads/pocket-extension.zip)** · [Install guide](https://github.com/rishitpradhan-gif/pocket#install-the-extension)
+
+**Run a local app:** extract the app ZIP, open a terminal in the inner folder, and run `python3 serve.py` (`py -3 serve.py` on Windows). Open http://127.0.0.1:8000. No npm install is needed.
+
+**Install an extension:** extract the extension ZIP; open `chrome://extensions` or `edge://extensions`; enable Developer mode; choose Load unpacked and select the inner folder containing `manifest.json`. Pin it, select text on a normal page, and save the selection. Open the bundled workspace and import from its reading inbox. These are desktop unpacked extensions, not store listings; managed school devices may disallow them.
 
 ## Little things to make
 

@@ -1,0 +1,141 @@
+{
+  "margin": {
+    "browser": {
+      "status": "passed",
+      "checks": [
+        "parse",
+        "recall and reveal",
+        "question checkbox",
+        "reorder",
+        "Markdown export",
+        "backup export",
+        "reload persistence",
+        "invalid import",
+        "mobile overflow"
+      ],
+      "pageErrors": []
+    },
+    "extension": {
+      "status": "passed",
+      "browser": "isolated Chrome profile; official CDP Extensions testing API",
+      "checks": [
+        "actual unpacked install",
+        "real toolbar permission grant and capture message on selected web text",
+        "exact selection stored with provenance",
+        "bundled workspace opens",
+        "real extension inbox loads",
+        "clip imports into app",
+        "clip deletion"
+      ],
+      "permissions": [
+        "activeTab",
+        "scripting",
+        "storage",
+        "contextMenus"
+      ],
+      "pageErrors": []
+    },
+    "local-download": {
+      "status": "passed",
+      "checks": [
+        "ZIP extracted independently",
+        "bundled launcher starts",
+        "local index serves successfully"
+      ]
+    }
+  },
+  "thread": {
+    "browser": {
+      "status": "passed",
+      "checks": [
+        "add concept",
+        "course label",
+        "keyboard move",
+        "pointer drag",
+        "explained connection",
+        "SVG export",
+        "reload persistence",
+        "mobile overflow"
+      ],
+      "pageErrors": []
+    },
+    "extension": {
+      "status": "passed",
+      "browser": "isolated Chrome profile; official CDP Extensions testing API",
+      "checks": [
+        "actual unpacked install",
+        "real toolbar permission grant and capture message on selected web text",
+        "exact selection stored with provenance",
+        "bundled workspace opens",
+        "real extension inbox loads",
+        "clip imports into app",
+        "clip deletion"
+      ],
+      "permissions": [
+        "activeTab",
+        "scripting",
+        "storage",
+        "contextMenus"
+      ],
+      "pageErrors": []
+    },
+    "local-download": {
+      "status": "passed",
+      "checks": [
+        "ZIP extracted independently",
+        "bundled launcher starts",
+        "local index serves successfully"
+      ]
+    }
+  },
+  "pocket": {
+    "browser": {
+      "status": "passed",
+      "checks": [
+        "make eight pages",
+        "edit page",
+        "print imposition view",
+        "SVG export",
+        "browser PDF output",
+        "overflow rejection",
+        "reload persistence",
+        "mobile overflow"
+      ],
+      "pageErrors": []
+    },
+    "extension": {
+      "status": "passed",
+      "browser": "isolated Chrome profile; official CDP Extensions testing API",
+      "checks": [
+        "actual unpacked install",
+        "real toolbar permission grant and capture message on selected web text",
+        "exact selection stored with provenance",
+        "bundled workspace opens",
+        "real extension inbox loads",
+        "clip imports into app",
+        "clip deletion"
+      ],
+      "permissions": [
+        "activeTab",
+        "scripting",
+        "storage",
+        "contextMenus"
+      ],
+      "pageErrors": []
+    },
+    "local-download": {
+      "status": "passed",
+      "checks": [
+        "ZIP extracted independently",
+        "bundled launcher starts",
+        "local index serves successfully"
+      ]
+    }
+  },
+  "pocket_print": {
+    "independently_checked": true,
+    "pages": 1,
+    "paper": "A4 landscape",
+    "all_eight_panel_labels_present": true
+  }
+}
