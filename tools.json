@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "tools": [
+    {
+      "slug": "sift",
+      "title": "Sift",
+      "kind": "api",
+      "description": "CSV quality audits and streaming profiling.",
+      "port": 8787,
+      "download": "https://github.com/rishitpradhan-gif/sift/releases/download/v0.1.0/sift-api.zip",
+      "guide": "https://github.com/rishitpradhan-gif/sift/blob/main/engine/README.md",
+      "commands": "node server.mjs",
+      "requirement": "Node.js 22 or newer. No npm install is needed."
+    },
+    {
+      "slug": "trellis",
+      "title": "Trellis",
+      "kind": "api",
+      "description": "Dependency planning, critical paths, and delay impact.",
+      "port": 8787,
+      "download": "https://github.com/rishitpradhan-gif/trellis/releases/download/v0.1.0/trellis-api.zip",
+      "guide": "https://github.com/rishitpradhan-gif/trellis/blob/main/engine/README.md",
+      "commands": "node server.mjs",
+      "requirement": "Node.js 22 or newer. No npm install is needed."
+    },
+    {
+      "slug": "quietgrid",
+      "title": "QuietGrid",
+      "kind": "python",
+      "description": "Noise-aware routing on an editable synthetic floor map.",
+      "port": 4311,
+      "download": "https://github.com/rishitpradhan-gif/quietgrid/releases/download/local-v1/quietgrid-local.zip",
+      "guide": "https://github.com/rishitpradhan-gif/quietgrid/blob/main/LOCAL.md",
+      "commands": "python3 server.py",
+      "requirement": "Python 3.10+. No pip packages, API keys, or accounts are needed."
+    },
+    {
+      "slug": "thermoqueue",
+      "title": "ThermoQueue",
+      "kind": "python",
+      "description": "Compute scheduling with a modeled useful-heat credit.",
+      "port": 4312,
+      "download": "https://github.com/rishitpradhan-gif/thermoqueue/releases/download/local-v1/thermoqueue-local.zip",
+      "guide": "https://github.com/rishitpradhan-gif/thermoqueue/blob/main/LOCAL.md",
+      "commands": "python3 server.py",
+      "requirement": "Python 3.10+. No pip packages, API keys, or accounts are needed."
+    },
+    {
+      "slug": "offcut-commons",
+      "title": "Offcut Commons",
+      "kind": "python",
+      "description": "Cutting-stock planning combined with supplier pickup routing.",
+      "port": 4313,
+      "download": "https://github.com/rishitpradhan-gif/offcut-commons/releases/download/local-v1/offcut-commons-local.zip",
+      "guide": "https://github.com/rishitpradhan-gif/offcut-commons/blob/main/LOCAL.md",
+      "commands": "python3 server.py",
+      "requirement": "Python 3.10+. No pip packages, API keys, or accounts are needed."
+    },
+    {
+      "slug": "morphogenesis-lab",
+      "title": "Morphogenesis",
+      "kind": "browser",
+      "description": "Paint seeds and grow reaction\u2013diffusion patterns.",
+      "port": 8000,
+      "download": "https://github.com/rishitpradhan-gif/morphogenesis-lab/releases/download/local-v1/morphogenesis-lab-local.zip",
+      "guide": "https://github.com/rishitpradhan-gif/morphogenesis-lab/blob/main/LOCAL.md",
+      "commands": "python3 serve.py",
+      "requirement": "Python 3.10+ and a modern browser. No Node.js, npm, or build step is needed for this prebuilt download."
+    },
+    {
+      "slug": "rally-court",
+      "title": "Rally Court",
+      "kind": "browser",
+      "description": "A playable tennis-inspired arcade game.",
+      "port": 8000,
+      "download": "https://github.com/rishitpradhan-gif/rally-court/releases/download/local-v1/rally-court-local.zip",
+      "guide": "https://github.com/rishitpradhan-gif/rally-court/blob/main/LOCAL.md",
+      "commands": "python3 serve.py",
+      "requirement": "Python 3.10+ and a modern browser. No Node.js, npm, or build step is needed for this prebuilt download."
+    },
+    {
+      "slug": "world-garden",
+      "title": "World Garden",
+      "kind": "browser",
+      "description": "Build and explore a local isometric island.",
+      "port": 8000,
+      "download": "https://github.com/rishitpradhan-gif/world-garden/releases/download/local-v1/world-garden-local.zip",
+      "guide": "https://github.com/rishitpradhan-gif/world-garden/blob/main/LOCAL.md",
+      "commands": "python3 serve.py",
+      "requirement": "Python 3.10+ and a modern browser. No Node.js, npm, or build step is needed for this prebuilt download."
+    },
+    {
+      "slug": "wearable-signal-lab",
+      "title": "Wearable Signals",
+      "kind": "browser",
+      "description": "Explore an interface driven by simulated wearable signals.",
+      "port": 8000,
+      "download": "https://github.com/rishitpradhan-gif/wearable-signal-lab/releases/download/local-v1/wearable-signal-lab-local.zip",
+      "guide": "https://github.com/rishitpradhan-gif/wearable-signal-lab/blob/main/LOCAL.md",
+      "commands": "python3 serve.py",
+      "requirement": "Python 3.10+ and a modern browser. No Node.js, npm, or build step is needed for this prebuilt download."
+    },
+    {
+      "slug": "fourteen",
+      "title": "Fourteen",
+      "kind": "research",
+      "description": "Reproduce the sharp fourteen-ply fixed-pairing obstruction.",
+      "port": null,
+      "download": "https://github.com/rishitpradhan-gif/fourteen/releases/download/local-v1/fourteen-local.zip",
+      "guide": "https://github.com/rishitpradhan-gif/fourteen/blob/main/LOCAL.md",
+      "commands": "python3 verify.py\npython3 attack.py",
+      "requirement": "Python 3.10+. Uses only the Python standard library."
+    },
+    {
+      "slug": "prerequisite-pairings",
+      "title": "Prerequisite Pairings",
+      "kind": "research",
+      "description": "Check paired-reply legality and quotient theorems.",
+      "port": null,
+      "download": "https://github.com/rishitpradhan-gif/prerequisite-pairings/releases/download/local-v1/prerequisite-pairings-local.zip",
+      "guide": "https://github.com/rishitpradhan-gif/prerequisite-pairings/blob/main/LOCAL.md",
+      "commands": "python3 verify.py",
+      "requirement": "Python 3.10+. Uses only the Python standard library."
+    }
+  ]
+}

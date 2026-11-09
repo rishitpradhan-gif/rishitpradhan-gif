@@ -1,0 +1,82 @@
+{
+  "status": "passed",
+  "downloads": [
+    {
+      "project": "sift",
+      "download": "https://github.com/rishitpradhan-gif/sift/releases/download/v0.1.0/sift-api.zip",
+      "status": "passed",
+      "sha256": "399196d47b32a04ae9af5b5985e8c45425b360112231789848e531fad788b4a6",
+      "bytes": 7487
+    },
+    {
+      "project": "trellis",
+      "download": "https://github.com/rishitpradhan-gif/trellis/releases/download/v0.1.0/trellis-api.zip",
+      "status": "passed",
+      "sha256": "ea8427052cb0f2a14263b2dab56cf21b0cdcf1a86604b7547c0841f90fafb511",
+      "bytes": 6911
+    },
+    {
+      "project": "quietgrid",
+      "download": "https://github.com/rishitpradhan-gif/quietgrid/releases/download/local-v1/quietgrid-local.zip",
+      "status": "passed",
+      "sha256": "e7418effa056dfdee0a16458dc74d1b62ae2a99e105abbe10f0ac6de060fc566",
+      "bytes": 326505
+    },
+    {
+      "project": "thermoqueue",
+      "download": "https://github.com/rishitpradhan-gif/thermoqueue/releases/download/local-v1/thermoqueue-local.zip",
+      "status": "passed",
+      "sha256": "b2c2640f4780083e3a9eb05730ecc86b8b3d17b2e8e10a649dbaa813d943fcee",
+      "bytes": 465936
+    },
+    {
+      "project": "offcut-commons",
+      "download": "https://github.com/rishitpradhan-gif/offcut-commons/releases/download/local-v1/offcut-commons-local.zip",
+      "status": "passed",
+      "sha256": "eb656b8735df819848b1e67566cbc6476a785d95ea50bfa85ca16317f83b2f03",
+      "bytes": 456990
+    },
+    {
+      "project": "morphogenesis-lab",
+      "download": "https://github.com/rishitpradhan-gif/morphogenesis-lab/releases/download/local-v1/morphogenesis-lab-local.zip",
+      "status": "passed",
+      "sha256": "92a2ba8e0a7ccb05558eb10e13b2ee2889cc53b2ffb72d064a07ec88cae7e64b",
+      "bytes": 83032
+    },
+    {
+      "project": "rally-court",
+      "download": "https://github.com/rishitpradhan-gif/rally-court/releases/download/local-v1/rally-court-local.zip",
+      "status": "passed",
+      "sha256": "2a56f47b24647d9071ff3e2e53d72ec01802a23c1d2b0e619ee1f47590799335",
+      "bytes": 83046
+    },
+    {
+      "project": "world-garden",
+      "download": "https://github.com/rishitpradhan-gif/world-garden/releases/download/local-v1/world-garden-local.zip",
+      "status": "passed",
+      "sha256": "71c9d314137933d3983cd38588f756dddbcc310cd1dd60d46023c07d9c5111e5",
+      "bytes": 82599
+    },
+    {
+      "project": "wearable-signal-lab",
+      "download": "https://github.com/rishitpradhan-gif/wearable-signal-lab/releases/download/local-v1/wearable-signal-lab-local.zip",
+      "status": "passed",
+      "sha256": "03658b4dce37af414b36535033cd37e53b64c83ae4f6f9cef988614a9d171328",
+      "bytes": 82453
+    },
+    {
+      "project": "fourteen",
+      "download": "https://github.com/rishitpradhan-gif/fourteen/releases/download/local-v1/fourteen-local.zip",
+      "status": "passed",
+      "sha256": "231b969faa7161c26d072ca1b2ba786967e68c3e0e5813f24d75d3c47289104e",
+      "bytes": 12098
+    },
+    {
+      "project": "prerequisite-pairings",
+      "download": "https://github.com/rishitpradhan-gif/prerequisite-pairings/releases/download/local-v1/prerequisite-pairings-local.zip",
+      "status": "passed",
+      "sha256": "e6aa9f6193180afcdd158a131d7c18e7aa1c44acfced08911cb91d686a4ccf11",
+      "bytes": 9320
+    }
+  ]
+}

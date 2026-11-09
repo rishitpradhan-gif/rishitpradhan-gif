@@ -4,6 +4,10 @@ Chemical biology at UC Berkeley. I’m building **DreamIT**, focused on 3D world
 
 [Portfolio](https://rishitpradhan.com) · [LinkedIn](https://www.linkedin.com/in/rishit-pradhan-a49773352) · [Drip prototype](https://drip-demo-dashboard.vercel.app/)
 
+## Download and run
+
+**[Browse all 11 tools, download ZIPs, and follow the simple local-run guides →](TOOLS.md)**
+
 ## Start here
 
 - **[Sift](https://github.com/rishitpradhan-gif/sift)** — browser-local CSV audits, schema drift detection, and a downloadable streaming API. Tested on a million-row input. [Download API ↗](https://github.com/rishitpradhan-gif/sift/releases/latest)

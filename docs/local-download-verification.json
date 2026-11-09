@@ -1,0 +1,51 @@
+{
+  "status": "passed",
+  "projects": [
+    {
+      "project": "quietgrid",
+      "status": "passed",
+      "checks": "Extracted launcher, app, health endpoint and sample solve succeeded"
+    },
+    {
+      "project": "thermoqueue",
+      "status": "passed",
+      "checks": "Extracted launcher, app, health endpoint and sample solve succeeded"
+    },
+    {
+      "project": "offcut-commons",
+      "status": "passed",
+      "checks": "Extracted launcher, app, health endpoint and sample solve succeeded"
+    },
+    {
+      "project": "morphogenesis-lab",
+      "status": "passed",
+      "checks": "Extracted launcher, HTML, JS and CSS served successfully"
+    },
+    {
+      "project": "rally-court",
+      "status": "passed",
+      "checks": "Extracted launcher, HTML, JS and CSS served successfully"
+    },
+    {
+      "project": "world-garden",
+      "status": "passed",
+      "checks": "Extracted launcher, HTML, JS and CSS served successfully"
+    },
+    {
+      "project": "wearable-signal-lab",
+      "status": "passed",
+      "checks": "Extracted launcher, HTML, JS and CSS served successfully"
+    },
+    {
+      "project": "fourteen",
+      "status": "passed",
+      "checks": "Extracted research verifiers completed successfully"
+    },
+    {
+      "project": "prerequisite-pairings",
+      "status": "passed",
+      "checks": "Extracted research verifiers completed successfully"
+    }
+  ],
+  "visual_browser_qa": "Not rerun for this documentation/packaging update"
+}
