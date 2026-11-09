@@ -6,6 +6,8 @@ Chemical biology at UC Berkeley. I’m building **DreamIT**, focused on 3D world
 
 ## Start here
 
+- **[Sift](https://github.com/rishitpradhan-gif/sift)** — browser-local CSV audits, schema drift detection, and a downloadable streaming API. Tested on a million-row input. [Download API ↗](https://github.com/rishitpradhan-gif/sift/releases/latest)
+- **[Trellis](https://github.com/rishitpradhan-gif/trellis)** — dependency planning with critical paths, cycle witnesses, delay simulation, and a downloadable API. Tested with 50,000 tasks and 199,990 edges. [Download API ↗](https://github.com/rishitpradhan-gif/trellis/releases/latest)
 - **[Prerequisite Pairings](https://github.com/rishitpradhan-gif/prerequisite-pairings)** — an exact characterization of legal paired replies under arbitrary prerequisite orders, plus quotient state and play-counting theorems; checked against 72,482 exhaustive instances.
 - **[Fourteen](https://github.com/rishitpradhan-gif/fourteen)** — a sharp 14-ply obstruction to fixed pairing strategies on odd Connect Four boards, proved constructively and checked with independent grid search.
 - **[Connect Four Research](https://github.com/rishitpradhan-gif/connect4-proof-lab)** — proof-oriented game-theory research: structural pairing theorems, independently checked certificates, and C++20 adversarial search. [Research note ↗](https://github.com/rishitpradhan-gif/connect4-proof-lab/releases/download/v0.1.0/connect4-proof-lab-research-note.pdf)
