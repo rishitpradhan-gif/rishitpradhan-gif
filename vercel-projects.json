@@ -1,0 +1,210 @@
+[
+  {
+    "slug": "margin",
+    "title": "Margin",
+    "url": "https://rp-margin.vercel.app",
+    "category": "Student",
+    "description": "Arrange lecture notes into editable study sheets, explicit questions, and recall prompts.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "thread",
+    "title": "Thread",
+    "url": "https://rp-thread.vercel.app",
+    "category": "Student",
+    "description": "Connect concepts across classes and write a reason for every link.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "pocket",
+    "title": "Pocket",
+    "url": "https://rp-pocket.vercel.app",
+    "category": "Student",
+    "description": "Turn your own notes into an editable eight-page revision zine.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "murmur",
+    "title": "Murmur",
+    "url": "https://rp-murmur.vercel.app",
+    "category": "Creative",
+    "description": "Turn a phrase into a playable sound sculpture. Save the WAV or the print.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "ribbon",
+    "title": "Ribbon",
+    "url": "https://rp-ribbon.vercel.app",
+    "category": "Creative",
+    "description": "Turn a photo\u2019s colors into a woven keepsake. Edit the threads and save an SVG.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "morphogenesis-lab",
+    "title": "Morphogenesis",
+    "url": "https://rp-morphogenesis-lab.vercel.app",
+    "category": "Creative",
+    "description": "Paint seeds and grow reaction\u2013diffusion patterns.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "rally-court",
+    "title": "Rally Court",
+    "url": "https://rp-rally-court.vercel.app",
+    "category": "Creative",
+    "description": "A playable tennis-inspired arcade game.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "world-garden",
+    "title": "World Garden",
+    "url": "https://rp-world-garden.vercel.app",
+    "category": "Creative",
+    "description": "Build and explore a local isometric island.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "wearable-signal-lab",
+    "title": "Wearable Signals",
+    "url": "https://rp-wearable-signal-lab.vercel.app",
+    "category": "Creative",
+    "description": "Explore an interface driven by simulated wearable signals.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "canopy",
+    "title": "Canopy",
+    "url": "https://rp-canopy.vercel.app",
+    "category": "Tools",
+    "description": "Replay and challenge shared wearable-signal findings using synthetic experiments.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "rally-anatomy",
+    "title": "Rally Anatomy",
+    "url": "https://rp-rally-anatomy.vercel.app",
+    "category": "Creative",
+    "description": "Compare two local tennis clips, sync contact, and export annotated practice cards.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "quietgrid",
+    "title": "QuietGrid",
+    "url": "https://rp-quietgrid.vercel.app",
+    "category": "Tools",
+    "description": "Noise-aware routing on an editable synthetic floor map.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "thermoqueue",
+    "title": "ThermoQueue",
+    "url": "https://rp-thermoqueue.vercel.app",
+    "category": "Tools",
+    "description": "Compute scheduling with a modeled useful-heat credit.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "offcut-commons",
+    "title": "Offcut Commons",
+    "url": "https://rp-offcut-commons.vercel.app",
+    "category": "Tools",
+    "description": "Cutting-stock planning combined with supplier pickup routing.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "fourteen",
+    "title": "Fourteen",
+    "url": "https://rp-fourteen.vercel.app",
+    "category": "Research",
+    "description": "Reproduce the sharp fourteen-ply fixed-pairing obstruction.",
+    "scope": "Publication & downloads"
+  },
+  {
+    "slug": "prerequisite-pairings",
+    "title": "Prerequisite Pairings",
+    "url": "https://rp-prerequisite-pairings.vercel.app",
+    "category": "Research",
+    "description": "Check paired-reply legality and quotient theorems.",
+    "scope": "Publication & downloads"
+  },
+  {
+    "slug": "connect4-proof-lab",
+    "title": "Connect Four Research",
+    "url": "https://rp-connect4-proof-lab.vercel.app",
+    "category": "Research",
+    "description": "Computational Connect Four research, verification source, and research documents.",
+    "scope": "Publication & downloads"
+  },
+  {
+    "slug": "sift",
+    "title": "Sift",
+    "url": "https://rp-sift.vercel.app",
+    "category": "Tools",
+    "description": "CSV quality audits and streaming profiling.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "trellis",
+    "title": "Trellis",
+    "url": "https://rp-trellis.vercel.app",
+    "category": "Tools",
+    "description": "Dependency planning, critical paths, and delay impact.",
+    "scope": "Interactive app"
+  },
+  {
+    "slug": "contractwatch",
+    "title": "ContractWatch",
+    "url": "https://rp-contractwatch.vercel.app",
+    "category": "Tools",
+    "description": "Compare OpenAPI JSON contracts in the browser. Account history remains on the original hosted service.",
+    "scope": "Browser comparison"
+  },
+  {
+    "slug": "portfolio",
+    "title": "Portfolio",
+    "url": "https://rishitpradhan.com",
+    "category": "Existing",
+    "description": "Research, selected work, and interactive portfolio.",
+    "scope": "Existing Vercel deployment"
+  },
+  {
+    "slug": "drip",
+    "title": "Drip",
+    "url": "https://drip-five-sand.vercel.app",
+    "category": "Existing",
+    "description": "Existing Drip prototype.",
+    "scope": "Existing Vercel deployment"
+  },
+  {
+    "slug": "drip-dashboard",
+    "title": "Drip Dashboard",
+    "url": "https://drip-demo-dashboard.vercel.app",
+    "category": "Existing",
+    "description": "Wearable dashboard prototype with illustrative data.",
+    "scope": "Existing Vercel deployment"
+  },
+  {
+    "slug": "drip-demo",
+    "title": "Drip Demo",
+    "url": "https://drip-demo.vercel.app",
+    "category": "Existing",
+    "description": "Earlier Drip demo deployment.",
+    "scope": "Existing Vercel deployment"
+  },
+  {
+    "slug": "sweat-health-prototype",
+    "title": "Sweat Health Prototype",
+    "url": "https://v0-sweat-health-project.vercel.app",
+    "category": "Existing",
+    "description": "Earlier wearable-health interface prototype.",
+    "scope": "Existing Vercel deployment"
+  },
+  {
+    "slug": "campus-resources",
+    "title": "Campus Resources",
+    "url": "https://campus-resources-rishit-pradhan-berkeleyedus-projects.vercel.app",
+    "category": "Existing",
+    "description": "Existing campus-resources project.",
+    "scope": "Existing Vercel deployment"
+  }
+]

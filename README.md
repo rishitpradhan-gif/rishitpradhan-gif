@@ -34,3 +34,7 @@ These public experiments include runnable source and implementation notes. World
 ## Currently interested in
 
 Molecules, useful interfaces, shared virtual worlds, and making complicated systems easier to explore. Away from the desk: tennis.
+
+### Open a project
+
+[All public projects on Vercel](https://rp-projects.vercel.app) · [Download tools and extensions](TOOLS.md)

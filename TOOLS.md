@@ -1,6 +1,8 @@
 # Download & run locally
 
-Sixteen tools, apps, and research verifiers by Rishit Pradhan. The downloads below are public and do not require a GitHub account. Click a ZIP link, extract it, then follow its short guide.
+**[Open the Vercel project index](https://rp-projects.vercel.app)** — public apps, research publications, and existing portfolio/Drip deployments.
+
+Seventeen tools, apps, and research verifiers by Rishit Pradhan. The downloads below are public and do not require a GitHub account. Click a ZIP link, extract it, then follow its short guide.
 
 **Start with Sift or Trellis for an API; QuietGrid, ThermoQueue, or Offcut Commons for a complete Python app.**
 
@@ -19,19 +21,19 @@ Each works locally with your own notes. Export backups to move work between the 
 
 Arrange lecture notes into editable study sheets, explicit questions, and recall prompts.
 
-**[Try online](https://margin-rishit.rishit-pradhan.chatgpt.site)** · **[Download app](https://margin-rishit.rishit-pradhan.chatgpt.site/downloads/margin-local.zip)** · **[Download extension](https://margin-rishit.rishit-pradhan.chatgpt.site/downloads/margin-extension.zip)** · [Install guide](https://github.com/rishitpradhan-gif/margin#install-the-extension)
+**[Try online](https://rp-margin.vercel.app)** · **[Download app](https://rp-margin.vercel.app/downloads/margin-local.zip)** · **[Download extension](https://rp-margin.vercel.app/downloads/margin-extension.zip)** · [Install guide](https://github.com/rishitpradhan-gif/margin#install-the-extension)
 
 ### Thread
 
 Connect concepts across classes and write a reason for every link.
 
-**[Try online](https://thread-rishit.rishit-pradhan.chatgpt.site)** · **[Download app](https://thread-rishit.rishit-pradhan.chatgpt.site/downloads/thread-local.zip)** · **[Download extension](https://thread-rishit.rishit-pradhan.chatgpt.site/downloads/thread-extension.zip)** · [Install guide](https://github.com/rishitpradhan-gif/thread#install-the-extension)
+**[Try online](https://rp-thread.vercel.app)** · **[Download app](https://rp-thread.vercel.app/downloads/thread-local.zip)** · **[Download extension](https://rp-thread.vercel.app/downloads/thread-extension.zip)** · [Install guide](https://github.com/rishitpradhan-gif/thread#install-the-extension)
 
 ### Pocket
 
 Turn your own notes into an editable eight-page revision zine.
 
-**[Try online](https://pocket-rishit.rishit-pradhan.chatgpt.site)** · **[Download app](https://pocket-rishit.rishit-pradhan.chatgpt.site/downloads/pocket-local.zip)** · **[Download extension](https://pocket-rishit.rishit-pradhan.chatgpt.site/downloads/pocket-extension.zip)** · [Install guide](https://github.com/rishitpradhan-gif/pocket#install-the-extension)
+**[Try online](https://rp-pocket.vercel.app)** · **[Download app](https://rp-pocket.vercel.app/downloads/pocket-local.zip)** · **[Download extension](https://rp-pocket.vercel.app/downloads/pocket-extension.zip)** · [Install guide](https://github.com/rishitpradhan-gif/pocket#install-the-extension)
 
 **Run a local app:** extract the app ZIP, open a terminal in the inner folder, and run `python3 serve.py` (`py -3 serve.py` on Windows). Open http://127.0.0.1:8000. No npm install is needed.
 
@@ -45,7 +47,7 @@ Designed in Figma first. Both web links are public and work without an account. 
 
 Turn a phrase into a playable sound sculpture. Save the WAV or the print.
 
-**[Try it now](https://murmur-rishit.rishit-pradhan.chatgpt.site)** · **[Download ZIP](https://github.com/rishitpradhan-gif/murmur/releases/download/v0.1.0/murmur-local.zip)** · [Local guide](https://github.com/rishitpradhan-gif/murmur#run-the-download)
+**[Try it now](https://rp-murmur.vercel.app)** · **[Download ZIP](https://github.com/rishitpradhan-gif/murmur/releases/download/v0.1.0/murmur-local.zip)** · [Local guide](https://github.com/rishitpradhan-gif/murmur#run-the-download)
 
 For the ZIP: extract it, run `python3 serve.py` (`py -3 serve.py` on Windows), and open http://127.0.0.1:8000.
 
@@ -53,7 +55,7 @@ For the ZIP: extract it, run `python3 serve.py` (`py -3 serve.py` on Windows), a
 
 Turn a photo’s colors into a woven keepsake. Edit the threads and save an SVG.
 
-**[Try it now](https://ribbon-rishit.rishit-pradhan.chatgpt.site)** · **[Download ZIP](https://github.com/rishitpradhan-gif/ribbon/releases/download/v0.1.0/ribbon-local.zip)** · [Local guide](https://github.com/rishitpradhan-gif/ribbon#run-the-download)
+**[Try it now](https://rp-ribbon.vercel.app)** · **[Download ZIP](https://github.com/rishitpradhan-gif/ribbon/releases/download/v0.1.0/ribbon-local.zip)** · [Local guide](https://github.com/rishitpradhan-gif/ribbon#run-the-download)
 
 For the ZIP: extract it, run `python3 serve.py` (`py -3 serve.py` on Windows), and open http://127.0.0.1:8000.
 
@@ -229,3 +231,15 @@ Browser bundles contain prebuilt app files and a small loopback-only Python web 
 The Wearable Signals demo uses fabricated signals; World Garden uses local simulated companions. QuietGrid, ThermoQueue, and Offcut Commons are bounded planning prototypes. Read each project's README for its actual assumptions. Hosted Sites access settings do not restrict these public local downloads.
 
 [Machine-readable download catalog](tools.json) · [Local package checks](docs/local-download-verification.json)
+
+## Canopy
+
+Replay shared wearable-signal findings, remove a witness, and run nine analysis challenges. Synthetic research prototype, without medical or field validation.
+
+**[Try online](https://rp-canopy.vercel.app)** · **[Download app](https://rp-canopy.vercel.app/downloads/canopy-local.zip)** · [Guide](https://github.com/rishitpradhan-gif/canopy#try-locally)
+
+Extract the ZIP, open a terminal in the `canopy` folder, run `node server.mjs`, and open http://127.0.0.1:4435. Node.js 22+; no npm install needed.
+
+## Vercel hosting
+
+The [project index](https://rp-projects.vercel.app) includes the research publication sites, Rally Anatomy, and ContractWatch's browser comparison. Research verifiers still run locally from their downloads. ContractWatch account history remains on the original hosted service. Existing Drip and portfolio deployments are retained. Saved student-app work needs JSON export/import when moving between addresses.

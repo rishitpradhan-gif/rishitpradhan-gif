@@ -1,0 +1,396 @@
+{
+  "verified_at": "2026-11-12T23:39:45.643271+00:00",
+  "scope": "20 newly deployed public project sites plus their directory; existing production links retained. Nexus excluded by the owner.",
+  "browser": {
+    "verified_at": "2026-11-12T23:35:12.108Z",
+    "browser": "Google Chrome / Playwright",
+    "scope": "Live Vercel render/initial-workflow smoke checks, not comprehensive regression testing.",
+    "results": [
+      {
+        "slug": "margin",
+        "url": "https://rp-margin.vercel.app",
+        "status": "passed",
+        "title": "Margin",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "thread",
+        "url": "https://rp-thread.vercel.app",
+        "status": "passed",
+        "title": "Thread",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "pocket",
+        "url": "https://rp-pocket.vercel.app",
+        "status": "passed",
+        "title": "Pocket",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "murmur",
+        "url": "https://rp-murmur.vercel.app",
+        "status": "passed",
+        "title": "Murmur",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "ribbon",
+        "url": "https://rp-ribbon.vercel.app",
+        "status": "passed",
+        "title": "Ribbon",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "morphogenesis-lab",
+        "url": "https://rp-morphogenesis-lab.vercel.app",
+        "status": "passed",
+        "title": "Morphogenesis Lab \u2014 Rishit Pradhan",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "rally-court",
+        "url": "https://rp-rally-court.vercel.app",
+        "status": "passed",
+        "title": "Rally Court \u2014 Rishit Pradhan",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "world-garden",
+        "url": "https://rp-world-garden.vercel.app",
+        "status": "passed",
+        "title": "World Garden \u2014 Rishit Pradhan",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "wearable-signal-lab",
+        "url": "https://rp-wearable-signal-lab.vercel.app",
+        "status": "passed",
+        "title": "Wearable Signal Lab \u2014 Rishit Pradhan",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "canopy",
+        "url": "https://rp-canopy.vercel.app",
+        "status": "passed",
+        "title": "Canopy \u2014 A signal needs witnesses.",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "rally-anatomy",
+        "url": "https://rp-rally-anatomy.vercel.app",
+        "status": "passed",
+        "title": "Rally Anatomy \u2014 Find your moment.",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "quietgrid",
+        "url": "https://rp-quietgrid.vercel.app",
+        "status": "passed",
+        "title": "QuietGrid \u2014 One route. Two kinds of care.",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "thermoqueue",
+        "url": "https://rp-thermoqueue.vercel.app",
+        "status": "passed",
+        "title": "ThermoQueue \u2014 Compute is also a heat source.",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "offcut-commons",
+        "url": "https://rp-offcut-commons.vercel.app",
+        "status": "passed",
+        "title": "Offcut Commons \u2014 Less new material. Fewer separate trips.",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "fourteen",
+        "url": "https://rp-fourteen.vercel.app",
+        "status": "passed",
+        "title": "Fourteen",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "prerequisite-pairings",
+        "url": "https://rp-prerequisite-pairings.vercel.app",
+        "status": "passed",
+        "title": "Prerequisite Pairings",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "connect4-proof-lab",
+        "url": "https://rp-connect4-proof-lab.vercel.app",
+        "status": "passed",
+        "title": "Connect Four Research",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "sift",
+        "url": "https://rp-sift.vercel.app",
+        "status": "passed",
+        "title": "Sift",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "trellis",
+        "url": "https://rp-trellis.vercel.app",
+        "status": "passed",
+        "title": "Trellis",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      },
+      {
+        "slug": "contractwatch",
+        "url": "https://rp-contractwatch.vercel.app",
+        "status": "passed",
+        "title": "Contractwatch",
+        "checks": [
+          "HTTP 200",
+          "rendered page",
+          "no uncaught script errors",
+          "no same-origin HTTP failures"
+        ]
+      }
+    ]
+  },
+  "api": {
+    "verified_at": "2026-11-12T23:35:58.165528+00:00",
+    "scope": "Actual public Vercel function requests using synthetic samples; no personal data or external model calls.",
+    "results": [
+      {
+        "slug": "quietgrid",
+        "status": "passed",
+        "endpoint": "/api/solve",
+        "result_keys": [
+          "baseline",
+          "optimized",
+          "reachable",
+          "narrow_passages",
+          "exposure_grid",
+          "excluded_cells",
+          "model"
+        ]
+      },
+      {
+        "slug": "thermoqueue",
+        "status": "passed",
+        "endpoint": "/api/solve",
+        "result_keys": [
+          "baseline",
+          "optimized",
+          "net_carbon_reduction_g",
+          "model"
+        ]
+      },
+      {
+        "slug": "offcut-commons",
+        "status": "passed",
+        "endpoint": "/api/solve",
+        "result_keys": [
+          "baseline",
+          "optimized",
+          "search_nodes",
+          "search_complete",
+          "model"
+        ]
+      },
+      {
+        "slug": "sift",
+        "endpoint": "/api/profile",
+        "status": "passed",
+        "valid_request": 200,
+        "invalid_request": 400
+      },
+      {
+        "slug": "trellis",
+        "endpoint": "/api/plan",
+        "status": "passed",
+        "valid_request": 200,
+        "invalid_request": 400
+      },
+      {
+        "slug": "canopy",
+        "endpoint": "/api/analyze",
+        "status": "passed"
+      },
+      {
+        "slug": "canopy",
+        "endpoint": "/api/challenge",
+        "status": "passed"
+      }
+    ]
+  },
+  "downloads": {
+    "verified_at": "2026-11-12T23:38:43.003211+00:00",
+    "downloads": [
+      {
+        "url": "https://rp-margin.vercel.app/downloads/margin-local.zip",
+        "sha256": "ae1df5a5a3b3492bd3f18bfdd89b72f94e3239d7b1e8dc62b19b064808f37948",
+        "bytes": 72089,
+        "status": "passed"
+      },
+      {
+        "url": "https://rp-margin.vercel.app/downloads/margin-extension.zip",
+        "sha256": "871b7f5038f3379c63756177ee60211d3f6f67b15f30a629790d76bc63f935d2",
+        "bytes": 74332,
+        "status": "passed"
+      },
+      {
+        "url": "https://rp-thread.vercel.app/downloads/thread-local.zip",
+        "sha256": "00f35684e435dab4ec7bcdbd972421f6cb66ce4732024a81ca211fe374db6ada",
+        "bytes": 73397,
+        "status": "passed"
+      },
+      {
+        "url": "https://rp-thread.vercel.app/downloads/thread-extension.zip",
+        "sha256": "fd68e14b5f4563925334bb69025579af8e623d7546d339df5109d912110a9f1b",
+        "bytes": 75640,
+        "status": "passed"
+      },
+      {
+        "url": "https://rp-pocket.vercel.app/downloads/pocket-local.zip",
+        "sha256": "c4b3aad577414b1c85f70d07d1ce346b972892db2463aa10dbe7c81aa7fa17ac",
+        "bytes": 73376,
+        "status": "passed"
+      },
+      {
+        "url": "https://rp-pocket.vercel.app/downloads/pocket-extension.zip",
+        "sha256": "0ebcc895972365e20f268ca767b3bca1ed8949412ab755bb59fd402abd6ab4d0",
+        "bytes": 75618,
+        "status": "passed"
+      },
+      {
+        "url": "https://rp-murmur.vercel.app/downloads/murmur-local.zip",
+        "sha256": "43379688e7327b4e53dbb8a7702161170fa41636c6bf320377fbc74adaefa794",
+        "bytes": 69875,
+        "status": "passed"
+      },
+      {
+        "url": "https://rp-ribbon.vercel.app/downloads/ribbon-local.zip",
+        "sha256": "6fe1c4c73fcabc3611c1522685de4bcff3615884c8f6cdffc878b5b8f9316dcd",
+        "bytes": 70451,
+        "status": "passed"
+      },
+      {
+        "url": "https://rp-sift.vercel.app/downloads/sift-api.zip",
+        "sha256": "399196d47b32a04ae9af5b5985e8c45425b360112231789848e531fad788b4a6",
+        "bytes": 7487,
+        "status": "passed"
+      },
+      {
+        "url": "https://rp-trellis.vercel.app/downloads/trellis-api.zip",
+        "sha256": "ea8427052cb0f2a14263b2dab56cf21b0cdcf1a86604b7547c0841f90fafb511",
+        "bytes": 6911,
+        "status": "passed"
+      },
+      {
+        "url": "https://rp-canopy.vercel.app/downloads/canopy-local.zip",
+        "sha256": "d811e11bbeb1ec0a5daf0d364e7be6e801816a38c694bdb985c8ebd373a69a59",
+        "bytes": 655343,
+        "status": "passed"
+      }
+    ]
+  },
+  "limitations": [
+    "Browser checks are live render/initial-workflow smoke checks, not exhaustive regression tests.",
+    "Research deployments host publications and downloads; verification programs run locally.",
+    "ContractWatch browser comparison is on Vercel; saved accounts and history remain on the original Sites/D1 service.",
+    "Browser-saved student work requires export/import between origins.",
+    "Prepared-asset Vercel deployments are not automatically connected to original GitHub builds."
+  ]
+}
