@@ -4,7 +4,19 @@
 
 I’m Rishit, a chemical biology student at UC Berkeley. I build software for exploring physical systems and working with scientific data. These are the projects I’d start with.
 
-## 01 — Parallax
+## Conforma
+
+**One protein. Two shapes.**
+
+<a href="https://rp-conforma.vercel.app"><img src="assets/conforma.png" width="100%" alt="Conforma: an interactive structural biology experience rendering a real adenylate kinase structure" /></a>
+
+Turn a real protein, follow its moving lid, and measure the difference between two experimental structures. Custom WebGL rendering, core-versus-whole-chain fitting, and reproducible study exports.
+
+**[Open the experience](https://rp-conforma.vercel.app)** · [Case study](https://rishitpradhan.com/projects/conforma/) · [Source & numerical checks](https://github.com/rishitpradhan-gif/conforma)
+
+<sub>Matched experimental coordinates, checked against an independent NumPy SVD implementation. Intermediate frames are illustrative geometry, not measured molecular motion.</sub>
+
+## Parallax
 
 **Earth from the spacecraft’s point of view.**
 
@@ -16,7 +28,7 @@ Real CelesTrak orbital elements, SGP4 propagation, a first-person WebGL camera, 
 
 <sub>Checked against published SGP4 vectors and horizon geometry. Earth views are rendered; NASA images are dated. The iPhone source is prepared, with native compilation and device testing still pending.</sub>
 
-## 02 / 03 — Scientific workbenches
+## Scientific workbenches
 
 <table>
 <tr>
@@ -39,7 +51,7 @@ Real CelesTrak orbital elements, SGP4 propagation, a first-person WebGL camera, 
 
 <sub>Axon’s example is synthetic and its analysis is descriptive, not clinical. Titer checks declared context; a concentration ratio does not establish experimental or biological equivalence.</sub>
 
-## 04 / 05 / 06 — Systems you can run
+## Systems you can run
 
 **[Sift](https://github.com/rishitpradhan-gif/sift)** &nbsp; `DATA QUALITY`<br>
 CSV profiling, schema-drift checks, and a downloadable streaming API. [Try it ↗](https://rp-sift.vercel.app)
