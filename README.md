@@ -1,4 +1,4 @@
-<a href="https://rishitpradhan.com"><img src="assets/header.svg" width="100%" alt="Rishit Pradhan — Chemical Biology at UC Berkeley. Scientific software, working products, open source." /></a>
+<a href="https://rishitpradhan.com"><img src="assets/header.svg" width="100%" alt="Rishit Pradhan — Chemical Biology at UC Berkeley. Scientific software and open-source projects." /></a>
 
 <p align="center"><a href="https://rishitpradhan.com"><b>Portfolio</b></a> &nbsp; / &nbsp; <a href="https://rp-parallax.vercel.app"><b>Explore Parallax</b></a> &nbsp; / &nbsp; <a href="TOOLS.md">Downloads & APIs</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/rishit-pradhan-a49773352">LinkedIn</a></p>
 
