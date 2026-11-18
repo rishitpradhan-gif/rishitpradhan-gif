@@ -2,9 +2,29 @@
 
 **[Open the Vercel project index](https://rp-projects.vercel.app)** — public apps, research publications, and existing portfolio/Drip deployments.
 
-Seventeen tools, apps, and research verifiers by Rishit Pradhan. The downloads below are public and do not require a GitHub account. Click a ZIP link, extract it, then follow its short guide.
+Tools, apps, and research verifiers by Rishit Pradhan. The downloads below are public and do not require a GitHub account. Click a ZIP link, extract it, then follow its short guide.
 
 **Start with Sift or Trellis for an API; QuietGrid, ThermoQueue, or Offcut Commons for a complete Python app.**
+
+## Featured scientific software
+
+### Parallax — Earth from a spacecraft
+
+[Open the app](https://rp-parallax.vercel.app) · [Source & methods](https://github.com/rishitpradhan-gif/parallax) · [Download iPhone source and follow the Xcode guide](https://rp-parallax.vercel.app/ios.html)
+
+The iPhone download is source, not a signed installer. Requires a Mac, Node 22+, and Xcode 26+. Native compilation, simulator/device testing, and signing remain pending. Earth rendering is a simulation; NASA imagery is dated.
+
+### Axon — inspect EEG recordings locally
+
+[Open workbench](https://rp-axon.vercel.app) · [Download source](https://rp-axon.vercel.app/axon-source.zip) · [Supported formats & numerical methods](https://github.com/rishitpradhan-gif/axon)
+
+Extract the source, install Node 22+, and run `npm start`. Recording analysis stays in browser memory. Demo data is synthetic; no clinical interpretation.
+
+### Titer — assay endpoint comparisons
+
+[Open workbench](https://rp-titer.vercel.app) · [Download source](https://rp-titer.vercel.app/titer-source.zip) · [API key & OpenAPI guide](https://github.com/rishitpradhan-gif/titer)
+
+Extract the source, install Node 22+, and run `npm start`. The public workbench works locally in your browser; the keyed API runs in your downloaded service. Read the source guide to create a key. API keys are not issued by the public website.
 
 ## Before you start
 
