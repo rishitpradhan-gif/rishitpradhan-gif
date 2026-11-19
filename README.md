@@ -6,15 +6,17 @@ I’m Rishit, a chemical biology student at UC Berkeley. I build software for ex
 
 ## Conforma
 
-**One protein. Two shapes.**
+**A protein workspace you can take with you.**
 
-<a href="https://rp-conforma.vercel.app"><img src="assets/conforma.png" width="100%" alt="Conforma: an interactive structural biology experience rendering a real adenylate kinase structure" /></a>
+<a href="https://rp-conforma.vercel.app"><img src="assets/conforma.png" width="100%" alt="Conforma workspace: real protein coordinates, chain selection and local exports" /></a>
 
-Turn a real protein, follow its moving lid, and measure the difference between two experimental structures. Custom WebGL rendering, core-versus-whole-chain fitting, and reproducible study exports.
+Find a protein in the PDB, open your own coordinates, or construct geometry from an amino acid sequence. Inspect residues, measure atom distances, export figures and save workspaces that reopen locally. No account required; local files and sequence construction stay on your device.
 
-**[Open the experience](https://rp-conforma.vercel.app)** · [Case study](https://rishitpradhan.com/projects/conforma/) · [Source & numerical checks](https://github.com/rishitpradhan-gif/conforma)
+I’m building Conforma to make biology easier to work with. I want someone to bring their own question, see the underlying coordinates and keep work they can reuse. That also means being clear about the evidence: constructed geometry is not a predicted fold.
 
-<sub>Matched experimental coordinates, checked against an independent NumPy SVD implementation. Intermediate frames are illustrative geometry, not measured molecular motion.</sub>
+**[Open the workspace](https://rp-conforma.vercel.app)** · [Why I’m building it](https://rp-conforma.vercel.app/#why) · [Case study](https://rishitpradhan.com/projects/conforma/) · [Source & checks](https://github.com/rishitpradhan-gif/conforma)
+
+<sub>Portable records include coordinates, integrity checks and view settings. The original two-structure study and independently checked alignment engine remain available.</sub>
 
 ## Parallax
 
