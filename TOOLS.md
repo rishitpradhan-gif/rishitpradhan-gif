@@ -8,11 +8,11 @@ Tools, apps, and research verifiers by Rishit Pradhan. The downloads below are p
 
 ## Featured scientific software
 
-### Conforma — compare real protein structures
+### Conforma — open, construct and keep protein workspaces
 
 [Open the experience](https://rp-conforma.vercel.app) · [Download source](https://rp-conforma.vercel.app/conforma-source.zip) · [Methods & scientific engine](https://github.com/rishitpradhan-gif/conforma)
 
-Extract the download and run `node server.mjs` with Node 22+. Open http://127.0.0.1:4472. The built viewer is bundled; no install is needed to serve it. `node cli.mjs compare --fit core --out report.json` runs the numerical comparison without external packages. Interpolated frames are illustrative, not molecular dynamics.
+Extract the download and run `node server.mjs` with Node 22+. Open http://127.0.0.1:4472. The built viewer is bundled; no install is needed to serve it. Find a public structure, open a local PDB/mmCIF file or build idealized sequence geometry. Save workspace creates a portable record; choose File → Reopen a saved workspace to continue on another device. Local files and construction stay in the browser. Construction does not predict a native fold. `node cli.mjs compare --fit core --out report.json` runs the numerical comparison without external packages. Interpolated frames are illustrative, not molecular dynamics.
 
 ### Parallax — Earth from a spacecraft
 
